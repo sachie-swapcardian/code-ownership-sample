@@ -12,4 +12,7 @@ jobs:
       - name: Request review based on files changes and/or groups the author belongs to
         uses: necojackarc/auto-request-review@v0.7.0
         with:
-          config: .github/reviewers.yml # Config file location override
+          reviewers:
+            # The default reviewers
+            defaults:
+              - sachie026 # username # Config file location override
