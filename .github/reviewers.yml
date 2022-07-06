@@ -2,7 +2,7 @@ name: Auto Request Review
 reviewers:
   # The default reviewers
   defaults:
-    - sachie026 # username
+    - sachie-swapcardian # username
 
 options:
   ignore_draft: true
