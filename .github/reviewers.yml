@@ -1,0 +1,31 @@
+name: Auto Request Review
+reviewers:
+  # The default reviewers
+  defaults:
+    - sachie026 # username
+
+files:
+  # Keys are glob expressions.
+  # You can assign groups defined above as well as GitHub usernames.
+  '**':
+    - repository-owners # group
+    - team:external-reviewers # GitHub team
+  '**/*.js':
+    - core-contributors # group
+    - js-lovers # group
+  '**/*.yml':
+    - core-contributors # group
+    - yamler # username
+  '.github/**':
+    - octopus # username
+    - cat # username
+
+options:
+  ignore_draft: true
+  ignored_keywords:
+    - DO NOT REVIEW
+  enable_group_assignment: false
+
+  # Randomly pick reviewers up to this number.
+  # Do not set this option if you'd like to assign all matching reviewers.
+  number_of_reviewers: 3
