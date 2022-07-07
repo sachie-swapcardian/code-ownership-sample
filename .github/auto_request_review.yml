@@ -4,25 +4,25 @@ reviewers:
   #  - [sachie026, pawelzajac123] # username
 
 
-  files:
+files:
     # Keys are glob expressions.
     # You can assign groups defined above as well as GitHub usernames.
-    '**':
-      - sachie026 # username
-      - pawelzajac123 # username
-      - theoinisan
-      
-    '**/*.js':
-      - sachie026 # username
-      - pawelzajac123 # username
-      - theoinisan 
+  '**':
+    - sachie026 # username
+    - pawelzajac123 # username
+    - theoinisan
     
-    '**/**/*.js':
-      - sachie026 # username
-      - pawelzajac123 # username
-      - theoinisan 
+  '**/*.js':
+    - sachie026 # username
+    - pawelzajac123 # username
+    - theoinisan 
+  
+  '**/**/*.js':
+    - sachie026 # username
+    - pawelzajac123 # username
+    - theoinisan 
     
   # Randomly pick reviewers up to this number.
   # Do not set this option if you'd like to assign all matching reviewers.
-  options:
-    number_of_reviewers: 1
+options:
+  number_of_reviewers: 1  
