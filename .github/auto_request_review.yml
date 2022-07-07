@@ -1,7 +1,7 @@
 reviewers:
   # The default reviewers
   defaults:
-    - sachie026 # username
+    - [sachie026, sachie-swapcardian] # username
 
 
   # Randomly pick reviewers up to this number.
