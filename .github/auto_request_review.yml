@@ -11,6 +11,16 @@ reviewers:
       - sachie026 # username
       - pawelzajac123 # username
       - theoinisan
+      
+    '**/*.js':
+      - sachie026 # username
+      - pawelzajac123 # username
+      - theoinisan 
+    
+    '**/**/*.js':
+      - sachie026 # username
+      - pawelzajac123 # username
+      - theoinisan 
     
   # Randomly pick reviewers up to this number.
   # Do not set this option if you'd like to assign all matching reviewers.
