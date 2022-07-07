@@ -1,9 +1,9 @@
 reviewers:
   # The default reviewers
   defaults:
-    - [sachie026, sachie-swapcardian] # username
+    - [sachie026, pawelzajac123] # username
 
 
   # Randomly pick reviewers up to this number.
   # Do not set this option if you'd like to assign all matching reviewers.
-  number_of_reviewers: 0
+  # number_of_reviewers: 0
