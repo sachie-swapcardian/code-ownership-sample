@@ -1,9 +1,17 @@
 reviewers:
   # The default reviewers
-  defaults:
-    - [sachie026, pawelzajac123] # username
+  # defaults:
+  #  - [sachie026, pawelzajac123] # username
 
 
+  files:
+    # Keys are glob expressions.
+    # You can assign groups defined above as well as GitHub usernames.
+    '**':
+      - sachie026 # username
+      - pawelzajac123 # username
+      - theoinisan
+    
   # Randomly pick reviewers up to this number.
   # Do not set this option if you'd like to assign all matching reviewers.
   options:
