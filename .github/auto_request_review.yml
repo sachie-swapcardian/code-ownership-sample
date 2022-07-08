@@ -25,4 +25,4 @@ files:
   # Randomly pick reviewers up to this number.
   # Do not set this option if you'd like to assign all matching reviewers.
 options:
-  number_of_reviewers: 1  
+  number_of_reviewers: 2  
