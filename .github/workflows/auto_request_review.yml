@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Request review based on files changes and/or groups the author belongs to
-        uses: Swapcard-Corporation/thunder-auto-review@v0.1.0
+        uses: sachie-swapcardian/sach-auto-review@v0.1.0
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           config: .github/auto_request_review.yml
