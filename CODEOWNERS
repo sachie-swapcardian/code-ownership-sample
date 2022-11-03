@@ -1,19 +1,2 @@
-# Default code owners for all
-# User: Sachin
-
-# src/product       @sachie026
-
-# Code Owners for a file
-# filename @username1 @username2
-
-# Code Owners for a directory
 src/product/ @theoinisan 
-
 src/user/ @sachie026 @pawelzajac123 
-
-# # All group members as Code Owners for a file
-# filename @groupname
-
-# # All group members as Code Owners for a directory
-# directoryname/ @groupname
-
