@@ -7,7 +7,7 @@
 # filename @username1 @username2
 
 # Code Owners for a directory
-src/product/ @mdtarhini @theoinisan 
+src/product/ @theoinisan 
 
 src/user/ @sachie026 @pawelzajac123 
 
