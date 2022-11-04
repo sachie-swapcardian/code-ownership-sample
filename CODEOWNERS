@@ -1,2 +1,6 @@
+# These owners will be the default owners for everything in
+# the repo.
+
+* @sachie026
 src/product/ @theoinisan 
 src/user/ @sachie026 @pawelzajac123 
