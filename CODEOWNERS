@@ -1,6 +1,7 @@
 # These owners will be the default owners for everything in
 # the repo.
 
+*.js @theoinisan
 * @sachie026
 src/product/ @theoinisan 
 src/user/ @sachie026 @pawelzajac123 
