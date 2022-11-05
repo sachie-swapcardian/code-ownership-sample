@@ -1,7 +1,7 @@
 # These owners will be the default owners for everything in
 # the repo.
 
-.github/** @sachie-swapcardian 
+.github/** @mdtarhini 
 src/user-test/** @mdtarhini 
 *.js @theoinisan
 * @sachie-swapcardian 
