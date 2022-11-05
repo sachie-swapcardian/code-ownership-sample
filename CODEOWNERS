@@ -1,9 +1,9 @@
 # These owners will be the default owners for everything in
 # the repo.
 
-.github/** @sachie026
-src/user-test/** @sachie026
+.github/** @sachie-swapcardian 
+src/user-test/** @sachie-swapcardian 
 *.js @theoinisan
-* @sachie026
+* @sachie-swapcardian 
 src/product/** @theoinisan 
-src/user/** @sachie026 @pawelzajac123 
+src/user/** @sachie-swapcardian  @pawelzajac123 
