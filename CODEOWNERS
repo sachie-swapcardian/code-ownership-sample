@@ -2,8 +2,8 @@
 # the repo.
 
 .github/** @mdtarhini 
-src/user-test/** @mdtarhini 
+src/user-test/** @mdtarhini @theoinisan
 *.js @theoinisan
 * @sachie-swapcardian 
 src/product/** @theoinisan 
-src/user/** @sachie-swapcardian  @pawelzajac123 
+src/user/** @sachie-swapcardian @pawelzajac123 
